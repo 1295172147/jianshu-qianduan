@@ -60,7 +60,7 @@
       vArticle,
       vRecomAuthor,
       vTopics,
-      vCollections
+      vCollections,
     }
   }
 </script>
